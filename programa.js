@@ -141,7 +141,6 @@ node programa.js users
 
 /*
 comandos para ocupar:
-
  comments
  photos 
  posts 
